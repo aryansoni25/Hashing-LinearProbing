@@ -94,6 +94,6 @@ public class LinearProbing {
 
             }
         }
-        System.out.println(word+" not found in the HashTable ");
+        System.out.println(word+" not found in the HashTable.");
     }
 }
