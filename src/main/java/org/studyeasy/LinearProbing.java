@@ -52,7 +52,7 @@ public class LinearProbing {
                     System.out.println("The word "+word+" successfully inserted at the location: "+newIndex);
                     break;
                 }else {
-                    System.out.println(newIndex+" is already occupied .Trying next empty cell");
+                    System.out.println(newIndex+" is already occupied .Trying next empty cell.");
                 }
             }
         }
