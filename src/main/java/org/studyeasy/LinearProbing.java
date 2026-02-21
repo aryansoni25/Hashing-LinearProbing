@@ -80,7 +80,7 @@ public class LinearProbing {
                 return true;
             }
         }
-        System.out.println(word+" not found in the HashTable ");
+        System.out.println(word+" not found in the HashTable.");
         return false;
     }
 
