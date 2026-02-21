@@ -7,7 +7,6 @@ public class Main {
         lp.insertInHashtable("Quick");
         lp.insertInHashtable("brown");
         lp.insertInHashtable("fox");
-        lp.insertInHashtable("over");
         lp.searchHashtable("over");
         lp.deleteKeyHashtable("over");
         lp.displayHashTable();
