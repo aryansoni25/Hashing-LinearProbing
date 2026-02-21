@@ -90,7 +90,7 @@ public class LinearProbing {
             int newIndex= i%hashTable.length;
             if(hashTable[newIndex]!=null && hashTable[newIndex].equals(word)){
                 hashTable[newIndex]=null;
-                System.out.println(word+" is deleted from  the HashTable ");
+                System.out.println(word+" is deleted from  the HashTable.");
 
             }
         }
